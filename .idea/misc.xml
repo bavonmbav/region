@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/region/app/src/main/res/layout-af-rZA/activity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-an-rES/activity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-ba-rRU/acticity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-en-rUS/acticity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-en-rUS/activity_main1.xml" value="0.21145833333333333" />
+        <entry key="..\:/region/app/src/main/res/layout-en-rUS/activty_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-eu-rES/activity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-fr-rCD/activity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-fr-rFR/activity_main.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-fr-rFR/activity_main1.xml" value="0.14" />
+        <entry key="..\:/region/app/src/main/res/layout-in-rID/activity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-land/activity_main.xml" value="0.17989417989417988" />
+        <entry key="..\:/region/app/src/main/res/layout-land/activity_main1.xml" value="0.128125" />
+        <entry key="..\:/region/app/src/main/res/layout-land/activity_mains.xml" value="0.25" />
+        <entry key="..\:/region/app/src/main/res/layout-pt-rBR/acticity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-pt-rBR/activity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout-pt-rPT/activity_main1.xml" value="0.2125" />
+        <entry key="..\:/region/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/region/app/src/main/res/layout/activity_main1.xml" value="0.24817518248175183" />
+        <entry key="..\:/region/app/src/main/res/layout/activity_mains.xml" value="0.21666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

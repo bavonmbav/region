@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RegionalAPK</string>
+    <string name="RUSSE">
+        etat federal d\'asie et d\'europe:17 075 000 km2:146 700 000 hab: capitale moscou:monaie rouble.
+    </string>
+    <string name="RUSSIE">
+        RUSSIE
+    </string>
+</resources>

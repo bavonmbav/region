@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="9dp"
+        android:paddingTop="90dp"
+        android:paddingEnd="9dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:gravity="center"
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="TODO"
+            android:src="@drawable/france"/>
+
+        <TextView
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="wrap_content"
+            android:layout_height="141dp"
+            android:layout_weight="1"
+            android:ems="10"
+            android:layout_marginTop="-100dp"
+            android:gravity="center"
+            android:inputType="textPersonName"
+            android:text="FRANCE" />
+
+        <TextView
+            android:gravity="center"
+
+            android:layout_marginBottom="50dp"
+            android:layout_marginTop="-100dp"
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:text=" etat de l'europe occidentale; 549 000km carres; 58 200 000hab;
+             capitale: paris, ville principale : marseille et lyon; monaie franc"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
